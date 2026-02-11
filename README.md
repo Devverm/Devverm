@@ -50,8 +50,8 @@ B.Tech | Vindhya Institute of Technology and Science | devpratap898291@gmail.com
 - [Full Stack Data Science & AI](https://drive.google.com/file/d/1Rah34Or4b4HyDF-Ht3kaO-pIakU7nAMo/view?usp=sharing)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366f1)](your-github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-verma-5614532a9)
+[![Email](devpratap898291@gmail.com)](devpratap898291@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366f1)](https://github.com/Devverm)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=gruvbox&hide_border=true)
