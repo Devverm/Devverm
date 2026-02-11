@@ -37,11 +37,17 @@ B.Tech | Vindhya Institute of Technology and Science | devpratap898291@gmail.com
 
 
 ## 📈 Cartification
-![Full Stack Data Science & AI](https://drive.google.com/file/d/1Rah34Or4b4HyDF-Ht3kaO-pIakU7nAMo/view?usp=sharing)
-![Unsupervised ML - Netflix Movies and TV Shows Clustering](https://drive.google.com/file/d/1j8p4LJ1d9x08EnWGmFNRru9L1o-qi9u8/view?usp=sharing)
-![Application of AI/ML Model for Specific Crop Acereage Mapping](https://drive.google.com/file/d/1roOilb3EG__XLWpuY3rMzEk1-e-W253R/view?usp=sharing)
-![Introduction to Copilot for Startups](https://drive.google.com/drive/folders/1TNqnBgaDEpl6O-aMXEXIbGC7wXF6b8_R)
-![Data Visualization Tools](https://drive.google.com/drive/folders/1TNqnBgaDEpl6O-aMXEXIbGC7wXF6b8_R)
+
+- [Machine Learning & Generative AI with Microsoft Azure](https://drive.google.com/file/d/1VMGzyF2W_T1nZmfOMdqKJhZlCqd__WyK/view?usp=sharing)
+- [Microsoft Azure](https://drive.google.com/file/d/1VMGzyF2W_T1nZmfOMdqKJhZlCqd__WyK/view?usp=sharing)
+- [Data Visualization Tools](https://drive.google.com/file/d/1Wd5X2eFx4_23sTYLWidty4d_JOohgaJK/view?usp=sharing)
+- [Applied Business Analytics](https://drive.google.com/file/d/1FTQPfTeknHmCXkOdxbEtvvnIu7PL9ybc/view?usp=sharing)
+- [Numerical Programming in Python](https://drive.google.com/file/d/1_PQ04zEm6kDZEWkwHU5stUs8CpvBMaR1/view?usp=sharing)
+- [Generative AI for Beginners](https://drive.google.com/file/d/1rFI_iy-RrOEjFy4Cg6_59iDsFuewv7HJ/view?usp=sharing)
+- [Gemini for Google Workspace](https://drive.google.com/file/d/1WkA2g5I1Vr4Bh_b1UtF_qdOmlVp3_MpA/view?usp=sharing)
+- [ ISRO  Application of AI/ML Model for Specific Crop Acreage Mapping](https://drive.google.com/file/d/1roOilb3EG__XLWpuY3rMzEk1-e-W253R/view?usp=drive_link)
+- [Microsoft Introduction to Copilot for Startups](https://drive.google.com/file/d/1xrvO1fq6QocuJCsKMMJTRzXGuDMJ4TsM/view?usp=drive_link) 
+- [Full Stack Data Science & AI](https://drive.google.com/file/d/1Rah34Or4b4HyDF-Ht3kaO-pIakU7nAMo/view?usp=sharing)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin)
